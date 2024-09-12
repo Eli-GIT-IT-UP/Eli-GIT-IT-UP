@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Elijah Brown 
 
 <!--
 **Eli-GIT-IT-UP/Eli-GIT-IT-UP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
